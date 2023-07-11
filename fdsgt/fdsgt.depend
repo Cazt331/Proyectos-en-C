@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536772308 source:c:\users\s331c\documents\programación\fdsgt\main.c
+	<stdio.h>
+	<stdlib.h>
+
